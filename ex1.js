@@ -38,4 +38,3 @@ let idade = prompt('Coloque sua idade');
 const texto = `Olá, meu nome é ${nome} e eu tenho ${idade} anos.`
 console.log(texto);
 
-// 2 parte
